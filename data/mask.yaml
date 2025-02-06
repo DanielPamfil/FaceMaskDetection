@@ -1,0 +1,7 @@
+train: ../FaceMask/images/train/
+val: ../FaceMask/images/val/
+test: ../FaceMask/images/test/
+
+nc: 3
+
+names: [ 'Incorrectly Mask', 'Mask', 'No Mask' ]
